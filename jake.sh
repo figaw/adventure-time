@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Mathemagical!"
+echo "Mathemagcal!"
 echo "jajaja"
 echo "did more stuff"
 echo "hmm"
